@@ -1,7 +1,4 @@
-hello stu 99 99 9 9 9 sdfsf
-dsfsdf
-stu666
-yo gabba gabba
-yo bagoya
-ServerRoot "/Users/stuartpearman/Code/sezmusic-static"
-ServerRoot "/Users/stuartpearman/Code/sezmusic-static"
+httpd (pid 81869) already running
+170316 01:16:21 mysqld_safe Logging to '/Applications/MAMP/logs/mysql_error_log.err'.
+httpd (pid 81869) already running
+170316 01:16:58 mysqld_safe Logging to '/Applications/MAMP/logs/mysql_error_log.err'.
