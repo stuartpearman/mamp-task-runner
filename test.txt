@@ -1,0 +1,7 @@
+hello stu 99 99 9 9 9 sdfsf
+dsfsdf
+stu666
+yo gabba gabba
+yo bagoya
+ServerRoot "/Users/stuartpearman/Code/sezmusic-static"
+ServerRoot "/Users/stuartpearman/Code/sezmusic-static"
